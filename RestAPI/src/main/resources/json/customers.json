@@ -2,11 +2,11 @@
   "Customers": [
     {
       "userId": 1,
-      "firstName": "Neerav",
-      "lastName": "Poriya",
+      "firstName": "Arshdeep",
+      "lastName": "Singh",
       "region": "New Jersey",
       "phoneNumber": "7021810856",
-      "emailAddress": "neeravporiya@gmail.com",
+      "emailAddress": "singhdeeparsh19@gmail.com",
       "shippingAddress": "142 St Pauls Ave, 1F, JC, NJ 07306",
       "Orders": [
         {
@@ -106,11 +106,11 @@
     },
     {
       "userId": 2,
-      "firstName": "Anil",
+      "firstName": "Ramesh",
       "lastName": "Poriya",
       "region": "California",
       "phoneNumber": "7021810855",
-      "emailAddress": "anilporiya@gmail.com",
+      "emailAddress": "Rameshporiya@gmail.com",
       "shippingAddress": "142 St Pauls Ave, 1F, JC, NJ 07306"
     },
     {
