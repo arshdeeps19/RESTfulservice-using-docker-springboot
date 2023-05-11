@@ -2,10 +2,10 @@
   "Customers": [
      {
         "id": "01",
-        "fName": "Neerav",
-        "lName": "Poriya",
-        "phoneNumber": "7021810856",
-        "emailAddress": "neeravporiya@gmail.com",
+        "fName": "Arshdeep",
+        "lName": "Singh",
+        "phoneNumber": "5513355444",
+        "emailAddress": "singhdeeparsh19@gmail.com",
         "shippingAddress": "142 St Pauls Ave, 1F, JC, NJ 07306",
         "Address": {
          "street": "Douglas Extension",
@@ -90,10 +90,10 @@
      },
      {
       "id": "02",
-      "fName": "Anil",
-      "lName": "Poriya",
-      "phoneNumber": "7021810855",
-      "emailAddress": "anilporiya@gmail.com",
+      "fName": "Ramesh",
+      "lName": "garg",
+      "phoneNumber": "7021810853",
+      "emailAddress": "gargramesh@gmail.com",
       "shippingAddress": "Terrace, San Jose, California, 07306",
       "Address": {
          "street": "Victor Plains",
@@ -104,10 +104,10 @@
      },
      {
       "id": "03",
-      "fName": "Mehul",
-      "lName": "Jikadra",
+      "fName": "Suresh",
+      "lName": "Sharma",
       "phoneNumber": "7021810777",
-      "emailAddress": "jikadramehul@gmail.com",
+      "emailAddress": "sureshsharma@gmail.com",
       "shippingAddress": "Kandivali E, Thakur Complex, India, 400101",
       "Address": {
          "street": "Kulas Light",
