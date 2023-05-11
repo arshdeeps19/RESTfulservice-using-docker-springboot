@@ -1,12 +1,12 @@
 {
   "Customers": [
     {
-      "userId": 1,
-      "firstName": "Neerav",
-      "lastName": "Poriya",
+       "userId": 1,
+      "firstName": "Arshdeep",
+      "lastName": "Singh",
       "region": "New Jersey",
-      "phoneNumber": "7021810856",
-      "emailAddress": "neeravporiya@gmail.com",
+      "phoneNumber": "5513355444",
+      "emailAddress": "arshdeep.singh3@pace.edu",
       "shippingAddress": "142 St Pauls Ave, 1F, JC, NJ 07306",
       "Orders": [
         {
@@ -106,20 +106,20 @@
     },
     {
       "userId": 2,
-      "firstName": "Anil",
-      "lastName": "Poriya",
+      "firstName": "Ramesh",
+      "lastName": "Garg",
       "region": "California",
-      "phoneNumber": "7021810855",
-      "emailAddress": "anilporiya@gmail.com",
+      "phoneNumber": "7021810853",
+      "emailAddress": "gargramesh@gmail.com",
       "shippingAddress": "142 St Pauls Ave, 1F, JC, NJ 07306"
     },
     {
       "userId": 3,
-      "firstName": "Mehul",
-      "lastName": "Jikadra",
+      "firstName": "Suresh",
+      "lastName": "Sharma",
       "region": "New York",
-      "phoneNumber": "7021810777",
-      "emailAddress": "mehuljikadra@gmail.com",
+      "phoneNumber": "7023810777",
+      "emailAddress": "sureshsharma@gmail.com",
       "shippingAddress": "1 Pace Plaza, NY, NY 10032"
     }
   ]
